@@ -1,4 +1,4 @@
-# Example-of-READ.ME.md
+# Example-of-README.md
 This is an example of a README file in Markdown format. It contains basic information about the project.
 ## Introduction
 This project is a simple demonstration of how to create and format a README.md file using Markdown.
